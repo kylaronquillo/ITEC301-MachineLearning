@@ -4,4 +4,5 @@ A comprehensive compilation of code and projects for **ITEC301 - Machine Learnin
 
 1. Data Preprocessing  
 2. Linear Regression  
-3. Logistic Regression  
+3. Logistic Regression
+4. Naive Bayes
